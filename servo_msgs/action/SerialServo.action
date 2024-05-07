@@ -1,0 +1,6 @@
+uint16 angle
+---
+bool result
+---
+# feedback
+uint16 current_angle
