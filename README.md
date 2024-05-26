@@ -14,6 +14,9 @@ ros2 pkg create --build-type ament_python --dependencies rclpy servo_msgs --desc
 - SG90：[秋月電子](https://akizukidenshi.com/catalog/g/g108761/)
 - フォトインタラプタ（例：OP90° 赤外線反射ユニット：[マルツ](https://www.marutsu.co.jp/pc/i/1634665/)）
 
+<img width="624" alt="servo_base" src="https://github.com/NITKK-ROS-Team/rpios_ros2_lecture/assets/67567093/7c31096a-9944-4762-8d10-b6ea2980b665">
+
+
 <br>
 
 ## 例
