@@ -20,6 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'input_example_pub = servo_example.input_example_pub:main',
+            'servo_example_sub = servo_example.servo_example_sub:main',
             'servo_example_service = servo_example.servo_example_service:main',
             'servo_example_action = servo_example.servo_example_action:main'
         ],
